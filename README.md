@@ -17,7 +17,7 @@ Regardless of the language or the hardware, you're going to need to create
 abstractions to do work in a way that's friendly to your own and your
 co-workers' human brains. Writing better, more communicative lessons for other
 humans will be a study for the rest of your career. But...learning to write the
-proper syntax for Ruby, well &mdash; you've got that one down, now!
+proper syntax for Ruby, well&mdash;you've got that one down, now!
 
 In the "Programming as Conversation" series we've been building up:
 
@@ -25,12 +25,12 @@ In the "Programming as Conversation" series we've been building up:
 * _to_ wrapping the previous skills in REPETITION or SELECTION (Part 2)
 * _to_ bundling the previous skills into methods (Part 3)
 
-What's next? We're going to change our focus.  We've been learning how to _do_
-more and more complicated things to this point.  What we want to cover next is
+What's next? We're going to change our focus. We've been learning how to _do_
+more and more complicated things to this point. What we want to cover next is
 how to _store_ more complicated information.
 
 To this point, the only material we've been storing has been _scalar_ data:
-`String`s, `Integer`s, and `Float`s.  But there are two more data types that
+`String`s, `Integer`s, and `Float`s. But there are two more data types that
 we've not covered: `Array` and `Hash`.
 
 `Array` and `Hash` are "collection" data types. While the variable `birthday`
