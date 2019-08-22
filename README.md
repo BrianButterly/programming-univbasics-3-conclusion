@@ -1,6 +1,6 @@
 # Programming as Conversation Part 3: Conclusion
 
-In this module we've learned to take our _expressions_ and _statements_ and
+In this module, we've learned to take our _expressions_ and _statements_ and
 combine them into paragraphs with ***power***: _methods_.
 
 Methods let us:
@@ -21,7 +21,7 @@ proper syntax for Ruby, well &mdash; you've got that one down, now!
 
 In the "Programming as Conversation" series we've been building up:
 
-* _From_ ordinary life experience to learning about about simple values and simple expressions (Part 1)
+* _From_ ordinary life experience to learning about simple values and simple expressions (Part 1)
 * _to_ wrapping the previous skills in REPETITION or SELECTION (Part 2)
 * _to_ bundling the previous skills into methods (Part 3)
 
@@ -39,6 +39,6 @@ holding a scalar `String` of `October 14, 1983` stores only _one_ date, an
 a collection of birthdays that could be pointed to by use of a short name like
 `mike`, `rafael` or `kat`.
 
-In the next module we'll learn to use the skills you have now to work with
+In the next module, we'll learn to use the skills you have now to work with
 these collection data types. See you in "Programming as Conversation Part 4:
 Collection Types!"
